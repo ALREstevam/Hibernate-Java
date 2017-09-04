@@ -3,12 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Group 20170111-04:37:20">
-            <file>file:/C:/Users/andre/Desktop/TesteHibernate/TesteHibernate/src/testehibernate/TesteHibernate.java</file>
-            <file>file:/C:/Users/andre/Desktop/TesteHibernate/TesteHibernate/src/testehibernate/DaoParticipante.java</file>
-            <file>file:/C:/Users/andre/Desktop/TesteHibernate/TesteHibernate/src/testehibernate/Participante.java</file>
-            <file>file:/C:/Users/andre/Desktop/TesteHibernate/TesteHibernate/src/testehibernate/HibernateUtil.java</file>
-            <file>file:/C:/Users/andre/Desktop/TesteHibernate/TesteHibernate/src/hibernate.cfg.xml</file>
-            <file>file:/C:/Users/andre/Desktop/TesteHibernate/TesteHibernate/src/testehibernate/CadastrarParticipante.java</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/javahibernateii/entities/SupermercadoDAO.java</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/javahibernateii/entities/Cupom.java</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/javahibernateii/JavaHibernateII.java</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/META-INF/persistence.xml</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/hibernate.cfg.xml</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/javahibernateii/entities/CupomDAO.java</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/javahibernateii/entities/Supermercado.java</file>
+            <file>file:/C:/Users/andre/Documents/NetBeansProjects/JavaHibernateII/src/controllers/Controller.java</file>
         </group>
     </open-files>
 </project-private>

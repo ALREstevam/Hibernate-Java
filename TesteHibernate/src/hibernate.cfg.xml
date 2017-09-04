@@ -4,10 +4,11 @@
   <session-factory>
     <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
     <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
-    <property name="hibernate.connection.url">jdbc:mysql://sql10.freesqldatabase.com:3306/sql10191136?zeroDateTimeBehavior=convertToNull</property>
-    <property name="hibernate.connection.username">sql10191136</property>
-    <property name="hibernate.connection.password">dH7w3GNwXE</property>
-    <property name="hibernate.hbm2ddl.auto">update</property>
-    <mapping class="testehibernate.Participante"/>
+    <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/hibernatetests?zeroDateTimeBehavior=convertToNull</property>
+    <property name="hibernate.connection.username">root</property>
+    <property name="hibernate.connection.password"/>
+    <property name="hibernate.hbm2ddl.auto">create-drop</property>
+    <mapping class="javahibernateii.entities.Cupom"/>
+    <mapping class="javahibernateii.entities.Supermercado"/>
   </session-factory>
 </hibernate-configuration>
